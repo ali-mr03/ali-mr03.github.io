@@ -38,10 +38,10 @@ function UpdateSAMTEK()
 
 function startanim()
 {
-  document.getElementById('youtube').classList.add('animate__rubberBand');
+  document.getElementById('instagram').classList.add('animate__rubberBand');
   document.getElementById('telegram').classList.add('animate__rubberBand');
   document.getElementById('mail').classList.add('animate__rubberBand');
-  document.getElementById('irc').classList.add('animate__rubberBand');
+  document.getElementById('linkedin').classList.add('animate__rubberBand');
   document.getElementById('g1').classList.add('animate__pulse');
   document.getElementById('p1').classList.add('animate__bounce');
   document.getElementById('p2').classList.add('animate__rubberBand');
